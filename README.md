@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://tysonmediagroup.org"><img src="https://img.shields.io/badge/Platform-tysonmediagroup.org-007ACC?logo=safari&logoColor=white" alt="Platform"></a>
   <a href="https://myt5s.app"><img src="https://img.shields.io/badge/Portal-myT5S.app-007ACC" alt="myT5S.app"></a>
-  <a href="https://apple.com"><img src="https://img.shields.io/badge/macOS-Sequoia-black?logo=apple&logoColor=white" alt="macOS"></a>
+  <a href="https://cloudflare.com"><img src="https://img.shields.io/badge/Cloudflare-Advocate-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Advocate"></a>
+  <a href="https://apple.com"><img src="https://img.shields.io/badge/macOS-Tahoe%2026-black?logo=apple&logoColor=white" alt="macOS Tahoe 26"></a>
   <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-6.0-orange?logo=swift&logoColor=white" alt="Swift"></a>
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React 19"></a>
   <a href="https://threejs.org"><img src="https://img.shields.io/badge/Three.js-3D-black?logo=threedotjs&logoColor=white" alt="Three.js"></a>
@@ -28,6 +29,18 @@ Welcome to the central profile for **Tyler Custine** and **TYSON Media Group**.
 > *"I'm Tyler, and I absolutely hate software development, yet if you look at my commit timeline on here, you might find otherwise..."*
 > 
 > *I like cars, native macOS software, audio DSP engines, 3D graphics, and building clean web experiences.*
+
+Proud **Cloudflare advocate** — relying on Cloudflare's edge network, Pages, Workers, DNS, and security infrastructure to power and distribute TYSON Media Group digital platforms across the globe.
+
+---
+
+### 💻 Hardware & Daily Drivers
+
+| Device | Role & Focus | Environment |
+| :--- | :--- | :--- |
+| **2019 MacBook Pro 16"** | Primary Development Workstation & Touch Bar Lab | macOS Tahoe 26 |
+| **Lenovo Legion Slim 7i Gen 8** | High-Performance Production Rig | High-Refresh Workstation |
+| **Omen by HP - 15 ce0xx** | Dedicated Workhorse & Sandbox Machine | Performance Lab |
 
 ---
 
@@ -50,10 +63,11 @@ Welcome to the central profile for **Tyler Custine** and **TYSON Media Group**.
 
 ---
 
-### Tech Stack & Tools
+### Tech Stack & Infrastructure
 
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/macOS_Tahoe_26-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
