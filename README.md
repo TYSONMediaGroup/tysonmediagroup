@@ -34,13 +34,13 @@ Proud **Cloudflare advocate** — relying on Cloudflare's edge network, Pages, W
 
 ---
 
-### 💻 Hardware & Daily Drivers
+### Hardware & Systems
 
-| Device | Role & Focus | Environment |
+| Device | Role | Details |
 | :--- | :--- | :--- |
-| **2019 MacBook Pro 16"** | Primary Development Workstation & Touch Bar Lab | macOS Tahoe 26 |
-| **Lenovo Legion Slim 7i Gen 8** | High-Performance Production Rig | High-Refresh Workstation |
-| **Omen by HP - 15 ce0xx** | Dedicated Workhorse & Sandbox Machine | Performance Lab |
+| **2019 MacBook Pro 16"** | Daily Driver | macOS Tahoe 26 |
+| **Lenovo Legion Slim 7i Gen 8** | Gaming | High-Performance Laptop |
+| **Omen by HP - 15 ce0xx** | Sandbox | Lab & Testing Rig |
 
 ---
 
